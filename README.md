@@ -2,6 +2,8 @@
 Geek干货集中营，iOS swift版客户端
 - [x]Swift 4
 - [x]储存使用CoreData实现
+- [x]瀑布流布局
+- [x]妹纸
 
 ### 数据来自干货集中营:
 ```
