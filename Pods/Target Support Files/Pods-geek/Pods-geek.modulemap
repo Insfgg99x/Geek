@@ -1,0 +1,6 @@
+framework module Pods_geek {
+  umbrella header "Pods-geek-umbrella.h"
+
+  export *
+  module * { export * }
+}

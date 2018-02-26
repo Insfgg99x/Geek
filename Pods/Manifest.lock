@@ -1,0 +1,26 @@
+PODS:
+  - MJRefresh (3.1.15.3)
+  - ObjectMapper (3.1.0)
+  - PKHUD (5.0.0)
+  - SDWebImage (4.2.2):
+    - SDWebImage/Core (= 4.2.2)
+  - SDWebImage/Core (4.2.2)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - MJRefresh
+  - ObjectMapper
+  - PKHUD
+  - SDWebImage (= 4.2.2)
+  - SnapKit
+
+SPEC CHECKSUMS:
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 5642a802babf37288e563cf7a3efbe9d2ab81318
+
+COCOAPODS: 1.1.1
