@@ -11,12 +11,21 @@ http://gank.io/
 - app截图
 
 主页
+
 ![](/imgs/1.png)
+
 分类
+
 ![](/imgs/2.png)
+
 妹纸
+
 ![](/imgs/3.png)
+
 设置
+
 ![](/imgs/4.png)
+
 收藏
+
 ![](/imgs/5.png)
