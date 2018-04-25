@@ -32,5 +32,5 @@ http://gank.io/
 
 ![](/imgs/5.png)
 
-###附上App Store链接
+### 附上App Store链接
 [Geek 干货](https://itunes.apple.com/cn/app/geek%E5%B9%B2%E8%B4%A7/id1352220020?mt=8)
